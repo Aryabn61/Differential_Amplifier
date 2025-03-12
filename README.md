@@ -39,3 +39,18 @@ Calculations :
   R<sub>D</sub> = (V<sub>DD</sub> - V<sub>ocm</sub>)/I<sub>D</sub>
 
   R<sub>D</sub> = (2.2-1.25)/0.5 m = 1.9 kΩ
+
+# **DC Analysis : **
+
+- Make the circuit as shown above.
+- Set the R<sub>D</sub> and R<sub>ss</sub> values as determined by the calculation.
+- Vary W/L ratio of both the transistor to get the required V<sub>ocm</sub> and I<sub>S</sub>.
+- Set the W/L ratio in such a way that the values are same fot both the transistors.
+- Check the V<sub>GS</sub> and V<sub>DS</sub> value of the transistors such that it operates in saturation region.
+- **Condtion for saturation region :**
+
+  V<sub>GS</sub>>V<sub>TH</sub> ,
+
+  V<sub>DS</sub>>V<sub>ov</sub>
+
+- Calculate V<sub>incm(min)</sub>,V<sub>incim(max)</sub>,V<sub>out(min)</sub>,V<sub>out(max)</sub>.
