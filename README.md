@@ -54,3 +54,19 @@ Calculations :
   V<sub>DS</sub>>V<sub>ov</sub>
 
 - Calculate V<sub>incm(min)</sub>,V<sub>incim(max)</sub>,V<sub>out(min)</sub>,V<sub>out(max)</sub>.
+
+  V<sub>incm(min)</sub> = V<sub>TH</sub> + V,sub>p</sub>
+  
+  V<sub>incm<min)</sub> = 0.366 + 0.4 = 0.766 V.
+
+  V<sub>incm(max)</sub> = V<sub>DD</sub> - (I<sub>D</sub>R<sub>D</sub>) + V<sub>TH</sub>
+
+  V<sub>incm(max)</sub> =
+
+  V<sub>outcm(min)</sub> = V<sub>ov</sub> + V<sub>p</sub> =
+
+  V<sub>outcm(max)</sub> = V<sub>DD</sub> -(I<sub>D</sub>R<sub>D</sub>) =
+
+  # **Transient Analysis : **
+
+  
